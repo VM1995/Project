@@ -5,5 +5,5 @@
 *.log
 
 # Maven
-#
+# Log
 target/
